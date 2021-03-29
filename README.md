@@ -17,9 +17,9 @@
 | 10:00 - 10:50 | Presentation        |        AWS AI 服务介绍        |      |
 | 11:10 - 12:00 | Presentation        |    AWS sagemaker 使用技巧     |      |
 | 12:00-13:00   | NA                  |             午饭              |      |
-| 13:00-15:00   | Presentation + 动手 |      动手：推荐模型训练       |      |
+| 13:00-15:00   | Presentation + 动手 |        动手：物品检测         |      |
 | 15:00-15:15   | NA                  |            下午茶             |      |
-| 15:15- 17:15  | Presentation + 动手 |        动手：物品检测         |      |
+| 15:15- 17:15  | Presentation + 动手 |      动手：推荐模型训练       |      |
 | 17:15- 17:30  | NA                  |              Q&A              |      |
 
 
