@@ -1,4 +1,4 @@
-# **TCL AWS AI ** 动手训练营
+# TCL AWS AI 动手训练营
 
 
 
